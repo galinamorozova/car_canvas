@@ -1,0 +1,16 @@
+.mainWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.canvas {
+    background-image: url('../../assets/debug.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.infoContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+}
